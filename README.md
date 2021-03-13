@@ -1,6 +1,9 @@
 # Contest 1 Code for MIE443
 
-Group 22 Savo Bajic - 1003051485 Maximilian Glidden - 1002277396 Catherine Kucaba - 1003278026
+Group 22 
+Savo Bajic - 1003051485 
+Maximilian Glidden - 1002277396 
+Catherine Kucaba - 1003278026
 
 Command lines required to initiate the code are given in sequential order below. NOTE: these need to be opened in seperate terminal windows. roslaunch mie443_contest1 turtlebot_world.launch world:=practice roslaunch mie443_contest1 gmapping.launch rosrun mie443_contest1 contest1
 
